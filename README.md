@@ -11,8 +11,10 @@
 <br/>
 <img src="https://metrics.lecoq.io/Skulls23" alt="Github Metrics">
 
+<!--
 Here are some ideas to get you started:
-
+-->
+<!--
 - 🔭 I’m currently working on many projects due to highschool.
 - 🌱 I’m currently learning php.
 - 👯 I’m looking to collaborate on ...
