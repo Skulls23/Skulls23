@@ -1,7 +1,12 @@
 <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=Skulls23&hide_border=true&theme=radical&show_icons=true&count_private=true" />
 
 <!--
-**Skulls23/Skulls23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skulls23/Skulls23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=skulls23i&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p> -->
+
+<p align="center">
+  
+<img src="https://metrics.lecoq.io/Skulls23" alt="Github Metrics">
 
 Here are some ideas to get you started:
 
