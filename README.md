@@ -9,7 +9,7 @@
 <p align="center">
 <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=Skulls23&hide_border=true&theme=midnight-purple&show_icons=true&count_private=true" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whippingdot&langs_count=10&hide_border=true&text_color=613F75&title_color=7FEFBD&icon_color=574AE2&bg_color=111344&cache_seconds=86400&local=en&show_owner=true)](https://github.com/anuraghazra/github-readme-stats" alt="Language known">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=10)" alt="Language known">
 <br/>
 <img src="https://metrics.lecoq.io/Skulls23" alt="Github Metrics">
 
