@@ -9,7 +9,7 @@
 <p align="center">
 <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=Skulls23&hide_border=true&theme=midnight-purple&show_icons=true&count_private=true" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=10)" alt="Language known">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skulls23&layout=compact&langs_count=10)" alt="Language known">
 <br/>
 <img src="https://metrics.lecoq.io/Skulls23" alt="Github Metrics">
 
