@@ -1,21 +1,6 @@
 
-
-
-
 <!--
 **Skulls23/Skulls23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<!-- <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=skulls23i&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p> -->
-
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=Skulls23.Skulls23"/>
-<br/>
-<img src="https://metrics.lecoq.io/Skulls23" alt="Github Metrics">
-<br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skulls23&hide_border=true&layout=compact&theme=midnight-purple&langs_count=10" alt="Language known">
-      <img src="https://github-readme-stats.vercel.app/api?username=Skulls23&hide_border=true&theme=midnight-purple&show_icons=true&count_private=true" />
-<br/>
-</p>
-
 
 <!--
 Here are some ideas to get you started:
@@ -31,4 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-</p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Skulls23.Skulls23)
+<br/>
+![Metrics](https://metrics.lecoq.io/Skulls23?template=classic&config.timezone=Europe%2FParis&config.animated=true)
+<br/>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skulls23&hide_border=true&layout=compact&theme=midnight-purple&langs_count=10)
+![stats](https://github-readme-stats.vercel.app/api?username=Skulls23&hide_border=true&theme=midnight-purple&show_icons=true&count_private=true)
+<!--
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skulls23&hide_border=true&layout=compact&theme=midnight-purple&langs_count=10" alt="Language known">
+      <img src="https://github-readme-stats.vercel.app/api?username=Skulls23&hide_border=true&theme=midnight-purple&show_icons=true&count_private=true" >
+
+-->
