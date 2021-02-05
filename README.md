@@ -16,8 +16,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skulls23&hide_border=true&layout=compact&theme=midnight-purple&langs_count=10" alt="Language known">
     </td>
-  </tr>
-  <tr>
     <td>
       <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=Skulls23&hide_border=true&theme=midnight-purple&show_icons=true&count_private=true" />
     </td>
