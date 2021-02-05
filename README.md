@@ -11,7 +11,7 @@
 <br/>
 <img src="https://metrics.lecoq.io/Skulls23" alt="Github Metrics">
 <br/>
-<table>
+<table cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skulls23&hide_border=true&layout=compact&theme=midnight-purple&langs_count=10" alt="Language known">
