@@ -7,7 +7,7 @@
 <!-- <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=skulls23i&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p> -->
 
 <p align="center">
-<img https://visitor-badge.glitch.me/badge?page_id=Skulls23.Skulls23>
+<img src="https://visitor-badge.glitch.me/badge?page_id=Skulls23.Skulls23">
 <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=Skulls23&hide_border=true&theme=midnight-purple&show_icons=true&count_private=true" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skulls23&layout=compact&theme=midnight-purple&langs_count=10" alt="Language known">
