@@ -9,11 +9,13 @@
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=Skulls23.Skulls23"/>
 <br/>
+<img src="https://metrics.lecoq.io/Skulls23" alt="Github Metrics">
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skulls23&hide_border=true&layout=compact&theme=midnight-purple&langs_count=10" alt="Language known">
+<br/>
 <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=Skulls23&hide_border=true&theme=midnight-purple&show_icons=true&count_private=true" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skulls23&layout=compact&theme=midnight-purple&langs_count=10" alt="Language known">
-<br/>
-<img src="https://metrics.lecoq.io/Skulls23" alt="Github Metrics">
+
 
 <!--
 Here are some ideas to get you started:
