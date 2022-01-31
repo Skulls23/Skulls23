@@ -84,9 +84,6 @@ Also I'm a fond of project. I really like team working, team building and everyt
 
 
 <!--
-Here are some ideas to get you started:
--->
-<!--
 - 🔭 I’m currently working on many projects due to highschool.
 - 🌱 I’m currently learning php.
 - 👯 I’m looking to collaborate on ...
@@ -96,6 +93,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <div align="center">
    
 ![Metrics](https://metrics.lecoq.io/Skulls23?template=classic&config.timezone=Europe%2FParis&config.animated=true)
