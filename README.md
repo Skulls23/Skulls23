@@ -97,7 +97,7 @@ Also I'm a fond of project. I really like team working, team building and everyt
 
 <div align="center">
    
-![Metrics](https://metrics.lecoq.io/Skulls23?template=classic&config.timezone=Europe%2FParis&config.animated=true)
+![metrics](https://metrics.lecoq.io/Skulls23?template=classic&config.timezone=Europe%2FParis&config.animated=true)
 <br/>
 ![stats](https://github-readme-stats.vercel.app/api?username=Skulls23&hide_border=true&theme=midnight-purple&show_icons=true&count_private=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skulls23&hide_border=true&hide=shaderlab&layout=compact&theme=midnight-purple&langs_count=10)
