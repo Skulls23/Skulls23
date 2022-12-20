@@ -27,8 +27,8 @@ I have few diplomas :
    <ul>
      <li>A STI2D <b>Baccalauréat</b> with highest honors</li>
      <li>An IT <b>DUT</b></li>
-     <li>an IT <b>Licence</b> <i>magna cum laude</i></li>
-     <li>A video game programming & team management <b>Master</b></li>
+     <li>An IT <b>Licence</b> <i>magna cum laude</i></li>
+     <li>A Master in video game development and management</li>
    </ul>
 <br/>
 
@@ -65,7 +65,8 @@ As a game developer, I love video games and my favorites are :
 <br/>
 
 
-I have a lot of dreams, I still believe someway in the American Dream. So I want to move to U.S to be a game developer. In fact, I want to work abroad, to know new things, new cultures, new people but the most important is culinary specialties !<br/>
+I have a lot of dreams, I want to live abroad to know new things, new cultures, new peoples but the most important is culinary specialties !<br/>
+I want a dog too, for some people it's already a reality but i had cat all my life while I always prefered dogs 😖 <br/>
 <br/>
 
 
@@ -73,7 +74,7 @@ I have a lot of dreams, I still believe someway in the American Dream. So I want
 <br/>
 
 
-In programming, I love Oriented Object Programming languages, I found them really fun and pleasant to read. I've mainly done student project with OOP or web languages for now, I still don't have "real games" here, I've done few "games" with Java, but they're not really something iIshould call "games". I learn Unity and in a close future, I will try Unreal Engine to understand both of them.<br/>
+In programming, I love Oriented Object Programming languages, I found them really fun and pleasant to read and write. I've mainly done student project with OOP or web languages for now, I still don't have "real games" here, I've done few "games" with Java or Unity, but they're not really something I should call "games" (Except Towards The Unknown). I learn Unity and in a close future, I will try Unreal Engine to understand both of them.<br/>
 Also I'm a fond of project. I really like team working, team building and everything that rely on communications.<br/>
 <br/>
 <br/>
