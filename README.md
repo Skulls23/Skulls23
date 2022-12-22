@@ -25,10 +25,10 @@ I'm a developer and i'm on my way to be specialized in game development.<br/>
 I have few diplomas :
 
    <ul>
-     <li>A STI2D <b>Baccalauréat</b> with highest honors</li>
-     <li>An IT <b>DUT</b></li>
-     <li>An IT <b>Licence</b> <i>magna cum laude</i></li>
-     <li>A Master in video game development and management</li>
+     <li>A STI2D <b>Baccalauréat</b> (BTEC National Diploma) with highest honors</li>
+     <li>An IT <b>DUT</b> (Technical Bachelor Degree)</li>
+     <li>An IT <b>Licence</b> (Bachelor Degree) <i>magna cum laude</i></li>
+     <li>A Master Degree in video game development and management</li>
    </ul>
 <br/>
 
