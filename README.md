@@ -3,7 +3,31 @@
 
 <br/><h1 align="center">Florian Boireau<br/>Game developer<br/>🎮 😃 🎮</h1><br/>
 
-<h2 align="center">Few things about me</h2><br/>
+
+<p align="center">Summary</p>
+<div align="center">
+   <table>
+      <tr>
+         <td>
+            <a href="#aboutMe">Few things about me</a>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <a href="#experiences">My experiences</a>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <a href="#stats">My Github stats</a>
+         </td>
+      </tr>
+   </table>
+</div>
+
+
+<br/><br/>
+<h2 align="center" id="aboutMe">Few things about me</h2><br/>
 <br/>
 
 
@@ -12,8 +36,8 @@
 
 
 My name is <b>Florian Boireau</b>, I'm french and I'm from 1999. <br/>
-I'm born near Rouen, Normandy (76), I used to leave here but i moved for my studies, first I moved to Le Havre for 3 years and then I moved to Cannes for 2 years to do my master (and maybe meet Leonardo DiCaprio, but that point was unsuccessfull).<br/>
-I'm a developer and i'm on my way to be specialized in game development.<br/>
+I'm born near Rouen, Normandy (76), I used to leave here but i moved for my studies, first I moved to Le Havre for 3 years and then I moved to Cannes for 2 years to do my master (and maybe meet Leonardo DiCaprio, <em>I write this 2 years after, it did not happened sadly</em>).<br/>
+I'm a developer, I wrote in many languages, most of my studies projects are not here du to computer loss but now i'm specialized in game development.<br/>
 <br/>
 
 
@@ -56,7 +80,7 @@ As a game developer, I love video games and my favorites are :
    <li>Halo 3 (Or Reach, choice is too hard)</li>
    <li>Rimworld</li>
    <li>Dragon Quest 9 (nostalgia I suppose)</li>
-  </ul>
+</ul>
 <br/>
 
 
@@ -79,7 +103,36 @@ Also I'm a fond of project. I really like team working, team building and everyt
 <br/>
 
 
-<h2 align="center">My Github stats</h2>
+<h2 align="center" id="experiences">My experiences as a game dev and my job in those projects</h2>
+
+<ul>
+   <li>The morrìgan (2021-2022, 6 months)
+      <ul>
+         <li>
+            A student game made in 12 months (I have done 6) as a 1 year game developer. The game is on Unity and is a Souls Like
+         </li>
+         <li>
+            You can find the code and a briefing of what I have done here : [https://github.com/Skulls23/TowardsTheUnknown](https://github.com/Skulls23/the-morrigan)
+         </li>
+      </ul>
+   </li>
+   <li>Toward The Unknown (2022-2023, 10 months)<br/>
+      <ul>
+         <li>
+            A turn-based grid-based rogue-lite strategic game made on Unity. I created the project with 3 other members but at the end we where a group of 8 for 4 months
+         </li>
+         <li>
+            The game released in Q1-2023 on steam, you can find it here : https://store.steampowered.com/app/2232100/Towards_the_Unknown/
+         </li>
+         <li>
+            You can find the code (not updated to the final version) and a briefing of what I have done here : https://github.com/Skulls23/TowardsTheUnknown
+         </li>
+      </ul>
+   </li>
+</ul>
+
+
+<h2 align="center" id="stats">My Github stats</h2>
 <br/>
 
 
