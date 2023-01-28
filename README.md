@@ -124,7 +124,7 @@ Also I'm a fond of project. I really like team working, team building and everyt
             The game released in Q1-2023 on steam, you can find it here : https://store.steampowered.com/app/2232100/Towards_the_Unknown/
          </li>
          <li>
-            You can find the code (not updated to the final version) and a briefing of what I have done here : https://github.com/Skulls23/TowardsTheUnknown
+            You can find the code (not updated to the final version) and a briefing of what I have done here : TO BE ADDED
          </li>
       </ul>
    </li>
