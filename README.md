@@ -1,10 +1,9 @@
 <!--
 **Skulls23/Skulls23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1 align="center">Welcome to my github account !<br/>😃</h1>
-<br/>
+<br/><h1 align="center">Florian Boireau<br/>Game developer<br/>🎮 😃 🎮</h1><br/>
 
-<h2 align="center">Few things about me</h2>
+<h2 align="center">Few things about me</h2><br/>
 <br/>
 
 
