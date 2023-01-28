@@ -99,8 +99,7 @@ I want a dog too, for some people it's already a reality but i had cat all my li
 
 In programming, I love Oriented Object Programming languages, I found them really fun and pleasant to read and write. I've mainly done student project with OOP or web languages for now, I still don't have "real games" here, I've done few "games" with Java or Unity, but they're not really something I should call "games" (Except Towards The Unknown). I learn Unity and in a close future, I will try Unreal Engine to understand both of them.<br/>
 Also I'm a fond of project. I really like team working, team building and everything that rely on communications.<br/>
-<br/>
-<br/>
+<br/><br/><br/>
 
 
 <h2 align="center" id="experiences">My experiences as a game dev and my job in those projects</h2>
