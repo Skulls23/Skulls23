@@ -36,7 +36,7 @@
 
 
 My name is <b>Florian Boireau</b>, I'm french and I'm from 1999. <br/>
-I'm born near Rouen, Normandy (76), I used to leave here but i moved for my studies, first I moved to Le Havre for 3 years and then I moved to Cannes for 2 years to do my master (and maybe meet Leonardo DiCaprio, <em>I write this 2 years after, it did not happened sadly</em>).<br/>
+I'm born near Rouen, Normandy (76), I used to live here but I moved for my studies, first I moved to Le Havre for 3 years and then I moved to Cannes for 2 years to do my videogame dev & management master.<br/>
 I'm a developer, I wrote in many languages, most of my studies projects are not here du to computer loss but now i'm specialized in game development.<br/>
 <br/>
 
