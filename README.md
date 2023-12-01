@@ -48,10 +48,10 @@ I'm a developer, I wrote in many languages, most of my studies projects are not 
 I have few diplomas :
 
    <ul>
-     <li>A STI2D <b>Baccalauréat</b> (BTEC National Diploma) with highest honors</li>
-     <li>An IT <b>DUT</b> (Technical Bachelor Degree)</li>
-     <li>An IT <b>Licence</b> (Bachelor Degree) <i>magna cum laude</i></li>
-     <li>A Master Degree in video game development and management</li>
+     <li>A STI2D <b>Baccalauréat</b> (<b>BTEC National Diploma</b>) with highest honors</li>
+     <li>An IT <b>DUT</b> (<b>Technical Bachelor Degree</b>)</li>
+     <li>An IT <b>Licence</b> (<b>Bachelor Degree</b>) <i>magna cum laude</i></li>
+     <li>A <b>Master Degree</b> in video game development and management</li>
    </ul>
 <br/>
 
